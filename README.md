@@ -2,7 +2,7 @@
 
 ## Description
 
-A work day scheduler powered by jQuery
+A work day scheduler powered by jQuery. The calendar's visuals update based on the time of day, and users can enter and save events in any of the hour boxes.
 
 ## Screenshot
 
@@ -10,7 +10,7 @@ A work day scheduler powered by jQuery
 
 ## Usage
 
-Press the "Start Quiz" button on the main page to begin. Answer all the questions before the timer runs out. Incorrect answers will take 10 seconds away from the timer. Once you are finished, enter your initials and click the "Submit" button or press enter to see the high scores. Press the "Clear High Scores" button to reset the list, and press the "Go Back" button to start over.
+Click on one of the hour boxes to enter in an event for your planner. Press the button on the right side to save the event.
 
 ## Credits
 
@@ -18,4 +18,4 @@ N/A
 
 ## Link
 
-https://nnamdionyeije.github.io/Web-API-Coding-Quiz/
+https://nnamdionyeije.github.io/jQuery-Day-Planner/
